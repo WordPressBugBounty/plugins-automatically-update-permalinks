@@ -1,0 +1,1 @@
+# plugins-automatically-update-permalinks
